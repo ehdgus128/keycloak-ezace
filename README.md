@@ -32,7 +32,6 @@ Please remember to provide a good summary, description as well as steps to repro
 
 ## Getting started
 
-
 To run Keycloak, download the distribution from our [website](https://www.keycloak.org/downloads.html). Unzip and run:
 
     bin/kc.[sh|bat] start-dev
